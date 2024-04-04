@@ -38,13 +38,5 @@ df.Ventas.Train <- subset(df.Ventas, Split == T)
 df.Ventas.Test <- subset(df.Ventas, Split == F)
 
 #Graficacion para ver los datos dependiendo de 2 variables
-pl.ventas<-plot(df.Ventas.Train$Fecha)
-
-with(df.Ventas.Train,plot(Fecha,with))
-
-ggsave(filename = "Ventas.jpg",
-       plot = pl.ventas,
-       units = "in",
-       height = 7,
-       width = 14)
-
+plot(df.Ventas.Train$Fecha)
+with(df.Ventas.Train,plot(Fecha,Producto))
