@@ -33,7 +33,7 @@ plt.Ventas.g <- plt.Ventas+
              colour = "blue")+
   geom_line(aes(x = df.Ventas.Test$Fecha,
                 y = res$data$response),
-           colour = "coral")
+            colour = "coral")
 plt.Ventas.g
 
 
@@ -63,6 +63,5 @@ r2Ajustado <- 1 - (1 - r2) * ((n - 1) / (n - p - 1))
 # Mostrar los resultados
 print(paste("R cuadrado:", r2))
 print(paste("R cuadrado ajustado:", r2Ajustado))
-
 
 
