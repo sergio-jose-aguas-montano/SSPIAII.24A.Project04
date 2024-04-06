@@ -2,7 +2,7 @@ source("Análisis descriptivo.R")
 
 #Modelo regresion logistica
 
-#2 tipos
+#3 tipos
 #Se utiliza el modelo de entrenamiento y se fija una variable objetivo (PrecioUnidad)
 tsk = makeRegrTask(data = df.Ventas.Train, target = "PrecioUnidad")
 #Tambien se utiliza el modelo de testeo

@@ -2,12 +2,13 @@ source("libr.preprocess.R")
 options(scipen = 999)
 set.seed(2002)
 
-#Inportacion de datos y seleccion
+#Importación de datos de atención y venta al cliente de 3 meses
 df.Ventas <-read.csv("Atencion a cliente audioferre.csv",
                      header = T,
                      stringsAsFactors = T)
 
-#Convertimos los datos categóricos a numéricos
+#Convertimos los datos categóricos a numéricos para 
+#uso posterior
 df.Ventas$Producto <- as.numeric(df.Ventas$Producto)
 df.Ventas$Categoria <- as.numeric(df.Ventas$Categoria)
 df.Ventas$Dia <- as.numeric(df.Ventas$Dia)
