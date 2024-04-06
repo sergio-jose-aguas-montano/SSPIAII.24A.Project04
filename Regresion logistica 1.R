@@ -37,7 +37,32 @@ plt.Ventas.g <- plt.Ventas+
 plt.Ventas.g
 
 
+# Calcular las predicciones
+predicciones <- res$data$response
+# Valores reales
+valores <- df.Ventas.Test$PrecioUnidad
 
+# Calcular la suma de los cuadrados totales (SCT)
+sct <- sum((valores - mean(valores_reales))^2)
+
+# Calcular la suma de los cuadrados de los residuos (SCR)
+scr <- sum((valores - predicciones)^2)
+
+# Calcular el R cuadrado
+r2 <- 1 - (scr / sct)
+
+# Número de observaciones
+n <- length(valores)
+
+# Número de predictores (en este caso, solo tienes un modelo)
+p <- 1
+
+# Calcular el R cuadrado ajustado
+r2Ajustado <- 1 - (1 - r2) * ((n - 1) / (n - p - 1))
+
+# Mostrar los resultados
+print(paste("R cuadrado:", r2))
+print(paste("R cuadrado ajustado:", r2Ajustado))
 
 
 
