@@ -43,7 +43,7 @@ predicciones <- res$data$response
 valores <- df.Ventas.Test$PrecioUnidad
 
 # Calcular la suma de los cuadrados totales (SCT)
-sct <- sum((valores - mean(valores_reales))^2)
+sct <- sum((valores - mean(valores))^2)
 
 # Calcular la suma de los cuadrados de los residuos (SCR)
 scr <- sum((valores - predicciones)^2)
