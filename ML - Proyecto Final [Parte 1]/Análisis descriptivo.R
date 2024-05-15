@@ -31,3 +31,36 @@ plot(df.Ventas)
 
 with(df.Ventas.Train,plot(Fecha,Producto))
 
+# Función para graficar variables categóricas
+plot_categorical <- function(data, variable, title) {
+  ggplot(data, aes_string(x=variable)) +
+    geom_bar(fill="steelblue") +
+    theme_minimal() +
+    labs(title=title, x=variable, y="Count")
+}
+
+# Variables categóricas
+plot_categorical(df.Ventas, "Producto", "Cantidad de cada Producto")
+plot_categorical(df.Ventas, "Categoria", "Cantidad de cada Categoria")
+plot_categorical(df.Ventas, "Personal", "Cantidad de cada Personal")
+plot_categorical(df.Ventas, "local", "Cantidad de cada Local")
+
+# Función para graficar variables numéricas
+plot_numerical <- function(data, variable, title) {
+  ggplot(data, aes_string(x=variable)) +
+    geom_histogram(fill="steelblue", bins=30) +
+    theme_minimal() +
+    labs(title=title, x=variable, y="Count")
+}
+
+# Variables numéricas
+plot_numerical(df.Ventas, "Cantidad", "Distribución de Cantidad")
+plot_numerical(df.Ventas, "PrecioUnidad", "Distribución de Precio por Unidad")
+plot_numerical(df.Ventas, "PrecioFinal", "Distribución de Precio Final")
+plot_numerical(df.Ventas, "Dinero.recibido", "Distribución de Dinero Recibido")
+plot_numerical(df.Ventas, "Horario", "Distribución de Horario")
+plot_numerical(df.Ventas, "Dia", "Distribución de Dia")
+plot_numerical(df.Ventas, "Fecha", "Distribución de Fecha")
+plot_numerical(df.Ventas, "Venta", "Distribución de Venta")
+plot_numerical(df.Ventas, "local", "Residente o extranjero")
+

@@ -1,5 +1,5 @@
 #librerias
-list.of.packages <- c("ggplot2","caTools","mltools","data.table","cowplot","e1071","caret","rpart","rpart.plot","randomForest","caret","cluster","factoextra","mlr","mlbench","ROCR","pROC")
+list.of.packages <- c("ggplot2","caTools","mltools","data.table","cowplot","e1071","caret","rpart","rpart.plot","randomForest","caret","cluster","factoextra","mlr","mlbench","ROCR","pROC","class")
 
 new.packages <- 
   list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]

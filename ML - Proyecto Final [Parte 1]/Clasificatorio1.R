@@ -1,4 +1,7 @@
 source("Análisis descriptivo.R")
+library(mlr)
+library(caret)
+library(ggplot2)
 
 #Clasificador 3 tipos
 df.Ventas.Train$local<-as.factor(df.Ventas.Train$local)
@@ -33,6 +36,26 @@ confusionMatrix(matriz,
 roc.classif = generateThreshVsPerfData(res, measures = list(fpr, tpr, mmce))
 plotROCCurves(roc.classif)
 
+# Gráfico de clasificación
+df_classification <- data.frame(
+  Actual = df.Ventas.Test$Venta,
+  Predicho = res$data$response
+)
+
+ggplot(df_classification, aes(x = Predicho, fill = Predicho)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Gráfico de Clasificación",
+       x = "Clases Predichas",
+       y = "Conteo") +
+  theme_minimal()
+
+ggplot(df_classification, aes(x = Actual, fill = Actual)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Gráfico de Clasificación",
+       x = "Clases Reales",
+       y = "Conteo") +
+  theme_minimal()
+
 #Clasificador 3 tipos
 df.Ventas.Train$Venta<-as.factor(df.Ventas.Train$Venta)
 df.Ventas.Test$Venta<-as.factor(df.Ventas.Test$Venta)
@@ -58,4 +81,24 @@ confusionMatrix(matriz,
 #evaluacion y desempeño del clasificador
 roc.classif = generateThreshVsPerfData(res, measures = list(fpr, tpr, mmce))
 plotROCCurves(roc.classif)
+
+#grafica 2
+df_classification <- data.frame(
+  Actual = df.Ventas.Test$Venta,
+  Predicho = res$data$response
+)
+
+ggplot(df_classification, aes(x = Predicho, fill = Predicho)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Gráfico de Clasificación",
+       x = "Clases Predichas",
+       y = "Conteo") +
+  theme_minimal()
+
+ggplot(df_classification, aes(x = Actual, fill = Actual)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Gráfico de Clasificación",
+       x = "Clases Reales",
+       y = "Conteo") +
+  theme_minimal()
 
