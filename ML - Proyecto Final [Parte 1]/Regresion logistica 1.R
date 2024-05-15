@@ -1,4 +1,7 @@
 source("Análisis descriptivo.R")
+library(mlr)
+library(caret)
+library(ggplot2)
 
 #Modelo regresion logistica
 
