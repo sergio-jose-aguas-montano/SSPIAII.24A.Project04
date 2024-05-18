@@ -24,7 +24,7 @@ tmp = train(m, tsk)
 #Prediccion
 res = predict(tmp, tskpred)
 
-
+#Calcula FPR, TPR y AUC a partir de los resultados de re-muestreo 'res'
 calculateROCMeasures(res)
 
 #Matriz de confusion

@@ -57,4 +57,5 @@ lrns = lapply(lrns, setPredictType, "prob")
 m = makeStackedLearner(base.learners = lrns,
                        predict.type = "prob", method = "hill.climb")
 
+#Realiza el remuestreo del model y calcula métricas de rendimiento
 resampling <- resample(m, tsk, rdesc, measures = list(acc, mmce, fpr, tpr))

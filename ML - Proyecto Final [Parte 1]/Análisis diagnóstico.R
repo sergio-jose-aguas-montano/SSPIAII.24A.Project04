@@ -9,6 +9,7 @@ mdl.Rlog <- glm(formula = PrecioFinal ~ Dia,
 #Precio Final = variable dependiente
 
 
+#Resumen del modelo
 summary(mdl.Rlog)
 
 #Prediccion a partir del modelo mdl.Rlog
