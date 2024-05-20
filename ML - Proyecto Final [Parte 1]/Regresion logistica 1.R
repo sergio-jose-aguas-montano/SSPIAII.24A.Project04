@@ -68,3 +68,4 @@ print(paste("R cuadrado:", r2))
 print(paste("R cuadrado ajustado:", r2Ajustado))
 
 
+summary(res$data$response)
