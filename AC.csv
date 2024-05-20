@@ -1,0 +1,378 @@
+﻿Producto,Categoria,Cantidad,PrecioUnidad,PrecioFinal,Dinero recibido,Horario,Dia,Fecha,Personal,local,Venta
+Control  Lg,Tv,1,90,90,100,11,Lunes,01/01/2024,Oscar,Si,Si
+Pila AAA,Energia,2,5,10,100,11,Lunes,01/01/2024,Oscar,Si,Si
+Pistola de juguete,Juguetes,1,390,380,400,17,Lunes,01/01/2024,Yocelin,Si,Si
+Empaque Presto,Cocina,1,50,50,150,12,Martes,02/01/2024,Oscar,Si,Si
+Valvula,Cocina,1,80,80,150,12,Martes,02/01/2024,Oscar,Si,Si
+Bocina Velikka,Audio,1,190,190,200,18,Martes,02/01/2024,Yocelin,Si,Si
+Bocina Velikka,Audio,1,190,180,200,20,Martes,02/01/2024,China,Si,Si
+Control Samsung,Tv,1,60,60,100,11,Miercoles,03/01/2024,Oscar,Si,Si
+Pila AAA,Energia,4,10,40,100,11,Miercoles,03/01/2024,Oscar,Si,Si
+Teatro en casa,Audio,1,1440,0,0,17,Jueves,04/01/2024,Yocelin,No,No
+Bocina Velikka 8',Audio,1,840,840,1000,20,Jueves,04/01/2024,China,No,Si
+Empaque Presto,Cocina,1,50,50,50,12,Viernes,05/01/2024,Oscar,Si,Si
+Bace para tv,Tv,1,290,290,500,18,Viernes,05/01/2024,China,Si,Si
+Control  Samsung,Tv,1,90,90,100,12,Sabado,06/01/2024,Oscar,Si,Si
+Pila AAA,Energia,2,5,10,100,12,Sabado,06/01/2024,Oscar,Si,Si
+Bocina Velikka,Audio,1,240,0,0,17,Sabado,06/01/2024,China,Si,No
+Audifonos 1Hora,Audio,1,320,320,500,18,Sabado,06/01/2024,China,Si,Si
+Lampara de cabeza,Energia,1,95,95,100,11,Domingo,07/01/2024,Oscar,No,Si
+Bocina Velikka 6',Audio,1,650,650,700,12,Domingo,07/01/2024,Oscar,Si,Si
+Bocina 1Hora,Audio,1,320,320,500,12,Domingo,07/01/2024,Oscar,No,Si
+Extension Luz,Energia,2,32,32,50,12,Domingo,07/01/2024,Oscar,No,Si
+Cargador C,Energia,1,95,95,100,13,Domingo,07/01/2024,Oscar,No,Si
+Cable Coaxial,Tv,8,10,80,300,11,Lunes,08/01/2024,Oscar,Si,Si
+Antena,Tv,1,190,190,300,11,Lunes,08/01/2024,Oscar,Si,Si
+Bocina Velikka 8',Audio,1,890,890,1000,17,Lunes,08/01/2024,China,No,Si
+Empaque Presto,Cocina,1,50,50,50,12,Martes,09/01/2024,Oscar,Si,Si
+Bocina Fol 6',Audio,1,780,780,100,17,Martes,09/01/2024,Yocelin,No,Si
+Empaque Eco,Cocina,1,90,90,100,12,Miercoles,10/01/2024,Oscar,Si,Si
+Transmisor bt,Audio,1,160,0,0,16,Miercoles,10/01/2024,Yocelin,Si,No
+Auxiliar,Audio,1,40,40,40,17,Miercoles,10/01/2024,China,Si,Si
+Bocina Velikka,Audio,1,190,190,200,17,Jueves,11/01/2024,China,Si,Si
+Control Polaroid,Tv,1,90,90,100,12,Viernes,12/01/2024,Oscar,Si,Si
+Cortadora wall,Varios,1,490,490,500,16,Viernes,12/01/2024,Yocelin,No,Si
+Bocina Velikka 3',Audio,1,240,240,500,20,Viernes,12/01/2024,China,No,Si
+Bocina Velikka 3',Audio,1,240,0,0,12,Sabado,13/01/2024,Oscar,No,No
+Control Polaroid,Tv,1,90,90,100,13,Sabado,13/01/2024,Oscar,Si,Si
+Pila AAA,Energia,1,10,20,20,13,Sabado,13/01/2024,Oscar,Si,Si
+Bocina Crack,Audio,1,3900,3900,4000,19,Sabado,13/01/2024,China,No,Si
+Cargador v8,Energia,1,95,95,100,12,Domingo,14/01/2024,Oscar,No,Si
+Bocina Velikka,Audio,1,190,190,200,12,Domingo,14/01/2024,Oscar,No,Si
+Bocina JBL,Audio,1,540,0,0,13,Domingo,14/01/2024,Oscar,No,No
+Empaque Presto,Cocina,1,50,50,50,11,Lunes,15/01/2024,Oscar,Si,Si
+Lampara de cabeza,Energia,1,160,160,200,17,Lunes,15/01/2024,China,No,Si
+Control Polaroid,Tv,1,90,90,100,12,Martes,15/01/2024,Oscar,Si,Si
+Bace para tv,Tv,1,390,390,500,18,Martes,15/01/2024,China,Si,Si
+Navaja Oster,Cocina,1,95,95,100,12,Miercoles,16/01/2024,Oscar,Si,Si
+Bocina Velikka,Audio,1,190,190,200,18,Miercoles,17/01/2024,China,Si,Si
+Camara wifi,Varios,1,390,390,400,20,Miercoles,17/01/2024,China,Si,Si
+Hdmi,Tv,1,40,40,50,12,Jueves,18/01/2024,Oscar,Si,Si
+Bocina Fol 3',Audio,1,340,340,500,17,Jueves,18/01/2024,Yocelin,No,Si
+Cable Coaxial,Tv,10,10,100,100,20,Jueves,18/01/2024,China,Si,Si
+Control Polaroid,Tv,1,90,90,100,11,Viernes,19/01/2024,Oscar,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Viernes,19/01/2024,Oscar,Si,Si
+Bocina Velikka 8',Audio,1,890,0,0,18,Viernes,19/01/2024,Yocelin,No,No
+Bocina Fol 4',Audio,1,390,0,0,18,Viernes,19/01/2024,Yocelin,No,No
+Extension Luz,Energia,4,45,45,50,18,Sabado,20/01/2024,China,No,Si
+Foco led,Energia,1,20,20,20,20,Sabado,20/01/2024,China,No,Si
+Foco led,Energia,1,20,20,20,20,Sabado,20/01/2024,China,Si,Si
+Bocina Velikka,Audio,1,190,190,200,12,Domingo,21/01/2024,Oscar,No,Si
+Cortadora wall,Varios,1,590,590,600,12,Domingo,21/01/2024,Oscar,No,Si
+Audifonos 1Hora,Audio,1,320,320,400,12,Domingo,21/02/2024,Oscar,No,Si
+Bocina Crack,Audio,1,3900,0,0,13,Domingo,21/01/2024,Oscar,No,Si
+Valvula,Cocina,1,80,80,100,12,Lunes,22/01/2024,Oscar,Si,Si
+Bocina Velikka,Audio,1,190,190,200,20,Lunes,22/01/2024,China,Si,Si
+Empaque Eco,Cocina,1,90,0,0,12,Martes,23/01/2024,Oscar,Si,No
+Cortadora wall,Varios,1,590,590,600,16,Miercoles,24/01/2024,Yocelin,Si,Si
+Bocina Velikka 3',Audio,1,240,240,300,18,Miercoles,24/01/2024,China,Si,Si
+Auxiliar,Audio,1,40,40,50,12,Jueves,25/01/2024,Oscar,Si,Si
+Lampara de cabeza,Energia,1,95,95,100,17,Jueves,25/01/2024,Yocelin,Si,Si
+Extension Luz,Energia,2,32,32,50,18,Jueves,25/01/2024,China,Si,Si
+Control Polaroid,Tv,2,90,180,200,16,Viernes,26/01/2024,Yocelin,Si,Si
+Bocina Fol 3',Audio,1,340,340,500,17,Viernes,26/01/2024,China,Si,Si
+Transmisor bt,Audio,1,160,160,200,18,Viernes,26/01/2024,China,Si,Si
+Extension Luz,Energia,2,32,0,0,20,Viernes,26/01/2024,China,No,No
+Usb Grabada,Audio,1,150,150,150,12,Sabado,27/01/2024,Oscar,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Sabado,27/01/2024,Oscar,Si,Si
+Bocina JBL,Audio,1,590,590,700,17,Sabado,27/01/2024,China,Si,Si
+Usb Grabada,Audio,1,150,150,150,12,Domingo,28/01/2024,Oscar,No,Si
+Bocina Velikka,Audio,1,190,0,0,16,Domingo,28/01/2024,Yocelin,No,No
+Transmisor bt,Audio,1,160,160,200,17,Domingo,28/01/2024,China,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Lunes,29/01/2024,Oscar,Si,Si
+Hdmi,Tv,1,40,40,50,16,Lunes,29/01/2024,Yocelin,Si,Si
+Control Polaroid,Tv,1,90,0,0,12,Martes,30/01/2024,Oscar,Si,No
+Pila AAA,Energia,6,10,60,60,16,Martes,30/01/2024,Yocelin,Si,Si
+Control Universal,Tv,1,120,120,120,12,Miercoles,31/01/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,90,19,Miercoles,31/01/2024,China,Si,Si
+Mini legos,Juguetes,1,50,50,50,20,Miercoles,31/01/2024,China,Si,Si
+Cargador C,Energia,1,95,95,100,11,Jueves,01/02/2024,Oscar,Si,Si
+Camara wifi,Varios,1,240,0,0,12,Jueves,01/02/2024,Oscar,Si,No
+Pila AAA,Energia,2,10,20,20,17,Jueves,01/02/2024,Yocelin,Si,Si
+Control  Samsung,Tv,1,90,90,100,17,Jueves,01/02/2024,Yocelin,Si,Si
+Hdmi,Tv,1,40,40,50,20,Jueves,01/02/2024,China,Si,Si
+Empaque Presto,Cocina,1,50,50,100,12,Viernes,02/02/2024,Oscar,Si,Si
+Cafetera,Cocina,1,240,0,0,13,Viernes,02/02/2024,Oscar,No,No
+Control Polaroid,Tv,1,90,90,100,16,Viernes,02/02/2024,Yocelin,Si,Si
+Pila AAA,Energia,4,10,40,50,16,Viernes,02/02/2024,Yocelin,Si,Si
+Bocina Velikka,Audio,1,190,0,0,20,Viernes,02/02/2024,China,No,No
+Cortadora wall,Varios,1,940,940,1000,12,Sabado,03/02/2024,Oscar,No,Si
+Rasuradora,Varios,1,640,0,0,12,Sabado,03/02/2024,Oscar,No,No
+Extension Luz,Energia,1,32,32,50,12,Sabado,03/02/2024,Oscar,No,Si
+Bocina Velikka 8',Audio,1,840,840,1000,12,Sabado,03/02/2024,Oscar,No,Si
+Empaque Presto,Cocina,1,50,50,50,13,Sabado,03/02/2024,Oscar,Si,Si
+Bocina Fol 8',Audio,1,1300,0,0,16,Sabado,03/02/2024,Yocelin,No,No
+Lampara de cabeza,Energia,4,95,380,400,17,Sabado,03/02/2024,China,No,Si
+Lampara de Mano ,Energia,1,120,0,0,20,Sabado,03/02/2024,China,No,No
+Bocina Velikka 3',Audio,1,240,240,300,20,Sabado,03/02/2024,China,Si,Si
+Estereo Pioner,Audio,1,2900,0,0,20,Sabado,03/02/2024,China,Si,No
+Bocina Crack,Audio,1,3900,0,0,12,Domingo,04/02/2024,Oscar,No,No
+Bocina JBL,Audio,1,540,540,600,12,Domingo,04/02/2024,Oscar,No,Si
+Extension Luz,Energia,1,32,32,50,12,Domingo,04/02/2024,Oscar,No,Si
+Foco led,Energia,1,20,20,50,12,Domingo,04/02/2024,Oscar,No,Si
+Smartwach,Varios,1,540,0,0,12,Domingo,04/02/2024,Oscar,Si,No
+Reloj Casio,Varios,1,240,240,300,13,Domingo,04/02/2024,Oscar,No,Si
+Control Lg,Tv,1,90,90,100,11,Lunes,05/02/2024,Oscar,Si,Si
+Pila AAA,Energia,2,10,20,20,11,Lunes,05/02/2024,Oscar,Si,Si
+Empaque Presto,Cocina,2,50,100,100,12,Martes,06/02/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,100,16,Martes,06/02/2024,Yocelin,Si,Si
+DvD,Tv,1,540,0,0,12,Miercoles,07/02/2024,Oscar,No,No
+Bocina Velikka 8',Audio,1,840,840,840,17,Miercoles,07/02/2024,China,Si,Si
+Mini legos,Juguetes,1,50,50,50,13,Jueves,08/02/2024,Oscar,Si,Si
+Repetidor wifi,Varios,1,940,940,1000,17,Jueves,08/02/2024,Yocelin,Si,Si
+Control Universal,Tv,1,120,120,150,20,Jueves,08/02/2024,China,Si,Si
+Navaja Oster,Cocina,1,95,95,100,12,Viernes,09/02/2024,Oscar,Si,Si
+Lampara de cabeza,Energia,1,95,95,100,13,Viernes,09/02/2024,Oscar,No,Si
+Reloj Casio,Varios,1,190,0,0,16,Viernes,09/02/2024,Yocelin,No,No
+Bocina JBL,Audio,1,540,0,0,16,Viernes,09/02/2024,Yocelin,No,No
+Extension Luz,Energia,1,32,32,50,12,Sabado,10/02/2024,Oscar,No,Si
+Teatro en casa,Audio,1,1300,0,0,12,Sabado,10/02/2024,Oscar,No,Si
+Bocina Velikka 12',Audio,1,1800,1800,2000,17,Sabado,10/02/2024,Yocelin,Si,Si
+Foco led,Energia,5,20,100,100,20,Sabado,10/02/2024,China,Si,Si
+Soquet,Energia,1,12,12,20,20,Sabado,10/02/2024,China,Si,Si
+Reloj Casio,Varios,1,190,190,200,11,Domingo,11/02/2024,Oscar,No,Si
+Bocina JBL,Audio,1,420,0,0,12,Domingo,11/02/2024,Oscar,No,No
+Smartwach,Varios,1,420,0,0,12,Domingo,11/02/2024,Oscar,No,No
+Extension Luz,Energia,1,32,32,50,12,Domingo,11/02/2024,Oscar,No,Si
+Cortadora wall,Varios,1,590,0,0,13,Domingo,11/02/2024,Oscar,No,No
+Empaque Presto,Cocina,1,50,50,100,10,Lunes,12/02/2024,Oscar,Si,Si
+Control Lg,Tv,1,90,90,100,17,Lunes,12/02/2024,Yocelin,Si,Si
+Bocina Velikka 8',Audio,1,840,840,1000,20,Lunes,12/02/2024,China,Si,Si
+Navaja Oster,Cocina,2,95,190,200,12,Martes,13/02/2024,Oscar,Si,Si
+Cortadora wall,Varios,1,590,590,600,17,Martes,13/02/2024,Yocelin,Si,Si
+Control Universal,Tv,1,120,120,200,20,Martes,13/02/2024,China,Si,Si
+Valvula,Cocina,1,80,80,100,11,Miercoles,14/02/2024,Oscar,Si,Si
+Control  Lg,Tv,1,90,90,100,12,Miercoles,14/02/2024,Oscar,Si,Si
+Hdmi,Tv,1,40,40,50,17,Miércoles,14/02/2024,Yocelin,Si,Si
+Roku ,Tv,1,840,0,0,20,Miércoles,14/02/2024,China,Si,No
+Navaja Oster,Cocina,1,95,95,100,12,Jueves,15/02/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,100,17,Jueves,15/02/2024,Yocelin,Si,Si
+Pila AAA,Energia,2,5,10,10,17,Jueves,15/02/2024,Yocelin,Si,Si
+Antena,Tv,1,840,840,1000,20,Jueves,15/02/2024,China,Si,Si
+Cable Coaxial,Tv,10,100,100,100,20,Jueves,15/02/2024,China,Si,Si
+Cargador v8,Energia,1,95,95,95,12,Viernes,16/02/2024,Oscar,Si,Si
+Audifonos 1Hora,Audio,1,320,0,0,17,Viernes,16/02/2024,Yocelin,No,No
+Audifonos 1Hora,Audio,1,320,320,500,20,Viernes,16/02/2024,China,Si,Si
+Bace de tv,Tv,1,290,290,300,20,Viernes,16/02/2024,China,Si,Si
+Cargador Ip,Energia,1,95,95,100,20,Viernes,16/02/2024,China,Si,Si
+Foco led,Energia,1,20,20,20,11,Sabado,17/02/2024,Oscar,No,Si
+Extension Luz,Energia,1,32,32,50,11,Sabado,17/02/2024,Oscar,No,Si
+Cortadora wall,Varios,1,590,590,600,13,Sábado,17/02/2024,Oscar,Si,Si
+Control Lg,Tv,1,90,90,100,18,Sábado,17/02/2024,Yocelin,Si,Si
+Pila AAA,Energia,2,5,10,10,18,Sábado,17/02/2024,Yocelin,Si,Si
+Bocina Fol 10',Audio,1,1600,0,0,20,Sábado,17/02/2024,China,No,No
+Bocina Velikka 12',Audio,1,1800,0,0,20,Sábado,17/02/2024,China,No,No
+Mini legos,Juguetes,1,50,0,0,11,Domingo,18/02/2024,Oscar,Si,No
+Smartwach,Varios,1,420,420,500,12,Domingo,18/02/2024,Oscar,No,Si
+Estereo Pioner,Audio,1,2900,0,0,12,Domingo,18/02/2024,Oscar,No,No
+Extension Luz,Energia,1,32,32,50,12,Domingo,18/02/2024,Oscar,No,Si
+Usb Grabada,Audio,1,150,150,200,12,Domingo,18/02/2024,Oscar,No,Si
+Bocina Crack,Audio,1,3900,0,0,12,Domingo,18/02/2024,Oscar,No,No
+Cargador v8,Energia,1,95,95,100,13,Domingo,18/02/2024,Oscar,Si,Si
+Control Lg,Tv,1,90,90,100,12,Lunes,19/02/2024,Oscar,Si,Si
+Lampara de Mano ,Energia,1,120,120,200,16,Lunes,19/02/2024,Yocelin,Si,Si
+Control Universal,Tv,1,120,120,120,18,Lunes,19/02/2024,China,Si,Si
+Bocina Fol 12',Audio,1,1640,0,0,20,Lunes,19/02/2024,China,Si,No
+Transmisor bt,Audio,1,160,160,200,20,Lunes,19/02/2024,China,Si,Si
+Empaque Presto,Cocina,1,55,55,60,12,Martes,20/02/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,100,16,Martes,20/02/2024,Yocelin,Si,Si
+Estereo Radox,Audio,1,480,480,500,19,Martes,20/02/2024,China,Si,Si
+Pistola de juguete,Juguetes,1,390,0,0,20,Martes,20/02/2024,China,Si,No
+Lampara de Mano ,Energia,1,120,120,150,20,Martes,20/02/2024,China,Si,Si
+Audifonos Gamer,Audio,1,390,390,500,12,Miercoles,21/02/2024,Oscar,Si,Si
+Empaque Eco,Cocina,1,90,90,100,13,Miercoles,21/02/2024,Oscar,Si,Si
+Hdmi,Tv,1,40,40,50,16,Miercoles,21/02/2024,Yocelin,Si,Si
+Control Lg,Tv,1,90,0,0,17,Miercoles,21/02/2024,Yocelin,Si,No
+Bocina Velikka 3',Audio,1,240,240,500,19,Miercoles,21/02/2024,China,Si,Si
+Smartwach,Varios,1,420,420,500,20,Miercoles,21/02/2024,China,Si,Si
+Regulador ,Energia,1,390,0,0,20,Miercoles,21/02/2024,China,No,No
+Control Polaroid,Tv,1,90,90,100,12,Jueves,22/02/2024,Oscar,Si,Si
+Pila AAA,Energia,2,5,10,10,12,Jueves,22/02/2024,Oscar,Si,Si
+Hdmi,Tv,2,40,80,100,16,Jueves,22/02/2024,Yocelin,Si,Si
+Camara wifi,Varios,1,540,540,600,20,Jueves,22/02/2024,China,Si,Si
+Control Universal,Tv,1,120,120,120,20,Jueves,22/02/2024,China,Si,Si
+Cargador Ip,Energia,1,95,95,100,20,Jueves,22/02/2024,China,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Viernes,23/02/2024,Oscar,Si,Si
+Control Universal,Tv,1,120,120,120,13,Viernes,23/02/2024,Oscar,Si,Si
+Bocina Velikka 8',Audio,1,840,0,0,17,Viernes,23/02/2024,Yocelin,No,No
+Lampara de cabeza,Energia,1,120,120,200,18,Viernes,23/02/2024,Yocelin,No,Si
+Extension Luz,Energia,1,60,60,100,20,Viernes,23/02/2024,China,Si,Si
+Empaque Eco,Cocina,1,90,90,100,11,Sabado,24/02/2024,Oscar,Si,Si
+Lampara de cabeza,Energia,1,120,0,0,12,Sabado,24/02/2024,Oscar,No,No
+Extension Luz,Energia,1,32,32,35,13,Sabado,24/02/2024,Oscar,No,Si
+Bocina Velikka 8',Audio,1,850,850,100,17,Sabado,24/02/2024,Yocelin,No,Si
+Cortadora wall,Varios,1,590,0,0,18,Sabado,24/02/2024,China,No,No
+Bocina Crack,Audio,1,3900,3900,4000,20,Sabado,24/02/2024,China,Si,Si
+Ecualizador Crack,Audio,1,2400,2300,2300,20,Sabado,24/02/2024,China,Si,Si
+Mini legos,Juguetes,1,50,50,50,11,Domingo,25/02/2024,Oscar,Si,Si
+Pistola de juguete,Juguetes,1,390,0,0,12,Domingo,25/02/2024,Oscar,Si,Si
+Usb Grabada,Audio,1,150,150,200,12,Domingo,25/02/2024,Oscar,No,Si
+Rasuradora,Varios,1,460,0,0,12,Domingo,25/02/2024,Oscar,No,No
+Bocina Velikka 3',Audio,1,240,240,500,12,Domingo,25/02/2024,Oscar,Si,Si
+Transmisor bt,Audio,1,160,160,200,12,Domingo,25/02/2024,Oscar,Si,Si
+Ventilador rec,Varios,1,90,90,100,12,Lunes,26/02/2024,Oscar,Si,Si
+Control tcl,Tv,1,90,0,0,12,Lunes,26/02/2024,Oscar,Si,No
+Control Universal,Tv,1,120,120,150,12,Lunes,26/02/2024,Oscar,Si,Si
+Bace de tv,Tv,1,290,290,500,17,Lunes,26/02/2024,Yocelin,Si,Si
+Cable Coaxial,Tv,10,100,100,100,20,Lunes,26/02/2024,China,Si,Si
+Antena,Tv,1,390,390,500,20,Lunes,26/02/2024,China,Si,Si
+Empaque Presto,Cocina,1,55,55,60,12,Martes,27/02/2024,Oscar,Si,Si
+Estereo Radox,Audio,1,460,0,0,13,Martes,27/02/2024,Oscar,Si,No
+Lampara de cabeza,Energia,1,120,120,200,16,Martes,27/02/2024,Yocelin,Si,Si
+Mini legos,Juguetes,1,50,50,50,19,Martes,27/02/2024,China,Si,Si
+Usb Grabada,Audio,1,150,150,200,20,Martes,27/02/2024,China,Si,Si
+Bocina Velikka 15',Audio,1,1950,0,0,20,Martes,27/02/2024,China,Si,No
+Ecualizador Crack,Audio,1,2400,0,0,12,Miercoles,28/02/2024,Oscar,Si,No
+Control Samsung,Tv,1,90,90,100,13,Miercoles,28/02/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,90,16,Miercoles,28/02/2024,Yocelin,Si,Si
+Bocina Fol 2',Audio,1,290,0,0,18,Miercoles,28/02/2024,China,No,No
+Cargador C,Energia,1,95,95,100,20,Miercoles,28/02/2024,China,Si,Si
+Audifonos 1Hora,Audio,1,320,320,500,20,Miercoles,28/02/2024,China,Si,Si
+Empaque Eco,Cocina,1,90,90,100,12,Jueves,29/02/2024,Oscar,Si,Si
+Usb Grabada,Audio,1,150,150,150,13,Jueves,29/02/2024,Oscar,Si,Si
+Bocina Velikka 8',Audio,1,840,0,0,17,Jueves,29/02/2024,Yocelin,Si,No
+Bocina Velikka 6',Audio,1,650,650,700,17,Jueves,29/02/2024,Yocelin,Si,Si
+Cargador v8,Energia,1,95,95,100,19,Jueves,29/02/2024,China,Si,Si
+Audifonos 1Hora,Audio,1,320,320,400,20,Jueves,29/02/2024,China,Si,Si
+Ventilador rec,Varios,1,90,90,100,12,Viernes,01/03/2024,Oscar,Si,Si
+Empaque Presto,Cocina,1,50,50,50,13,Viernes,01/03/2024,Oscar,Si,Si
+Audifonos 1Hora,Audio,1,320,0,0,17,Viernes,01/03/2024,Yocelin,No,No
+Extension Luz,Energia,1,32,32,50,17,Viernes,01/03/2024,Yocelin,No,Si
+Audifonos 1Hora,Audio,1,320,320,500,20,Viernes,01/03/2024,China,Si,Si
+Control Universal,Tv,1,120,120,150,20,Viernes,01/03/2024,China,Si,Si
+Cortadora wall,Varios,1,490,0,0,11,Sabado,02/03/2024,Oscar,No,No
+Cortadora wall,Varios,1,720,720,100,12,Sabado,02/03/2024,Oscar,No,Si
+Lampara de cabeza,Energia,1,120,120,150,12,Sabado,02/03/2024,Oscar,No,Si
+Bocina Velikka 6',Audio,1,650,650,700,17,Sabado,02/03/2024,Yocelin,Si,Si
+Repetidor wifi,Varios,1,940,940,1000,20,Sabado,02/03/2024,China,Si,Si
+Lampara de Mano ,Energia,1,95,95,100,20,Sabado,02/03/2024,China,No,Si
+Usb Grabada,Audio,1,150,150,150,11,Domingo,03/03/2024,Oscar,No,Si
+Bocina Velikka 3',Audio,1,240,0,0,12,Domingo,03/03/2024,Oscar,No,No
+Cortadora wall,Varios,1,490,0,0,12,Domingo,03/03/2024,Oscar,No,No
+Bocina Velikka,Audio,1,190,190,200,12,Domingo,03/03/2024,Oscar,Si,No
+Extension Luz,Energia,1,32,32,50,13,Domingo,03/03/2024,Oscar,No,Si
+Empaque Presto,Cocina,1,50,50,50,12,Lunes,04/03/2024,Oscar,Si,Si
+Navaja Oster,Cocina,1,120,120,150,12,Lunes,04/03/2024,Oscar,Si,Si
+Control Universal,Tv,1,120,120,120,16,Lunes,04/03/2024,Yocelin,Si,Si
+Pila AAA,Energia,2,5,10,10,16,Lunes,04/03/2024,Yocelin,Si,Si
+Bocina Fol 4',Audio,1,390,390,500,20,Lunes,04/03/2024,China,Si,Si
+Roku ,Tv,1,840,840,1000,20,Lunes,04/03/2024,China,Si,Si
+Control Lg,Tv,1,90,90,100,20,Lunes,04/03/2024,China,Si,Si
+Valvula,Cocina,1,80,80,100,12,Martes,05/03/2024,Oscar,Si,Si
+Control Samsung,Tv,1,90,90,100,16,Martes,05/03/2024,Yocelin,Si,Si
+Ventilador Myteck,Varios,1,640,0,0,17,Martes,05/03/2024,Yocelin,Si,No
+Smartwach,Varios,1,420,420,500,20,Martes,05/03/2024,China,Si,Si
+Control Polaroid,Tv,1,90,90,100,20,Martes,05/03/2024,China,Si,Si
+Antena,Tv,1,860,0,0,20,Martes,05/03/2024,China,Si,Si
+Empaque Presto,Cocina,1,50,50,50,11,Miercoles,06/03/2024,Oscar,Si,Si
+Pila AAA,Energia,6,10,60,60,12,Miercoles,06/03/2024,Oscar,Si,Si
+Power banck 20 ma,Energia,1,420,0,0,18,Miercoles,06/03/2024,China,Si,No
+Power banck 10 ma,Energia,1,240,240,300,18,Miercoles,06/03/2024,China,Si,Si
+Cable Coaxial,Tv,10,100,100,100,18,Miercoles,06/03/2024,China,Si,Si
+Cafetera,Cocina,1,240,0,0,18,Miercoles,06/03/2024,China,No,No
+Lampara de Mano ,Energia,1,95,95,100,10,Jueves,07/03/2024,Oscar,Si,Si
+Empaque Eco,Cocina,1,90,90,100,12,Jueves,07/03/2024,Oscar,Si,Si
+Camara wifi,Varios,1,390,0,0,16,Jueves,07/03/2024,Yocelin,Si,No
+Audifonos 1Hora,Audio,1,320,320,400,17,Jueves,07/03/2024,Yocelin,Si,Si
+Audifonos 1Hora,Audio,1,320,320,500,20,Jueves,07/03/2024,China,No,Si
+Extension Luz,Energia,1,32,32,50,20,Jueves,07/03/2024,China,No,Si
+Bocina Crack,Audio,1,3900,0,0,20,Jueves,07/03/2024,China,No,No
+Transmisor bt,Audio,1,160,160,200,20,Jueves,07/03/2024,China,Si,Si
+Control Lg,Tv,1,90,90,100,11,Viernes,08/03/2024,Oscar,Si,Si
+Pila AAA,Energia,2,5,10,10,11,Viernes,08/03/2024,Oscar,Si,Si
+Bocina Fol 3',Audio,1,340,340,500,13,Viernes,08/03/2024,Oscar,No,Si
+Cortadora wall,Varios,1,490,0,0,16,Viernes,08/03/2024,Yocelin,No,No
+Rdio solar,Audio,1,240,0,0,16,Viernes,08/03/2024,Yocelin,No,No
+Foco led,Energia,1,20,20,20,16,Viernes,08/03/2024,Yocelin,No,Si
+Roku ,Tv,1,820,0,0,19,Viernes,08/03/2024,China,Si,No
+Cortadora wall,Varios,1,490,490,500,12,Sabado,09/03/2024,Oscar,No,Si
+Rasuradora,Varios,1,190,190,200,12,Sabado,09/03/2024,Oscar,No,Si
+Extension Luz,Energia,1,32,32,50,13,Sabado,09/03/2024,Oscar,No,Si
+Bocina Velikka 8',Audio,1,840,840,850,16,Sabado,09/03/2024,Yocelin,No,Si
+Transmisor bt,Audio,1,160,160,200,17,Sabado,09/03/2024,Yocelin,Si,Si
+Estereo Pioner,Audio,1,2900,0,0,19,Sabado,09/03/2024,China,Si,Si
+Cortadora wall,Varios,1,490,0,0,20,Sabado,09/03/2024,China,No,No
+Pila AAA,Energia,4,10,40,50,20,Sabado,09/03/2024,China,Si,Si
+Lampara de cabeza,Energia,1,120,120,150,12,Domingo,10/03/2024,Oscar,No,Si
+Lampara de Mano ,Energia,1,95,95,100,12,Domingo,10/03/2024,Oscar,No,Si
+Bocina Velikka,Audio,1,190,190,200,12,Domingo,10/03/2024,Oscar,Si,No
+Usb Grabada,Audio,1,150,150,150,12,Domingo,10/03/2024,Oscar,No,Si
+Cargador C,Energia,1,95,95,100,12,Domingo,10/03/2024,Oscar,No,Si
+Rdio solar,Audio,1,240,0,0,12,Domingo,10/03/2024,Oscar,No,No
+Audifonos 1Hora,Audio,1,320,320,500,12,Domingo,10/03/2024,Oscar,No,Si
+Extension Luz,Energia,1,32,32,50,13,Domingo,10/03/2024,Oscar,No,Si
+Baso de licuadora,Cocina,1,40,40,50,11,Lunes,11/03/2024,Oscar,Si,Si
+Empaque Presto,Cocina,1,50,50,100,11,Lunes,11/03/2024,Oscar,Si,Si
+Control Universal,Tv,1,120,120,200,16,Lunes,11/03/2024,Yocelin,Si,Si
+Pila AAA,Energia,4,5,20,20,16,Lunes,11/03/2024,Yocelin,Si,Si
+Bace de tv,Tv,1,290,290,300,20,Lunes,11/03/2024,China,Si,Si
+Navaja Oster,Cocina,1,95,95,100,12,Martes,12/03/2024,Oscar,Si,Si
+Camara wifi,Varios,1,390,390,400,16,Martes,12/03/2024,Yocelin,Si,Si
+Foco led,Energia,6,20,120,120,19,Martes,12/03/2024,China,Si,Si
+Audifonos 1Hora,Audio,1,320,320,400,20,Martes,12/03/2024,China,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Miercoles,13/03/2024,Oscar,Si,Si
+Lampara de cabeza,Energia,1,120,0,0,12,Miercoles,13/03/2024,Oscar,Si,No
+Control Lg,Tv,1,90,90,100,17,Miercoles,13/03/2024,Yocelin,Si,Si
+Bocina Velikka 8',Audio,1,840,0,0,20,Miercoles,13/03/2024,China,No,No
+Empaque Presto,Cocina,1,50,0,0,12,Jueves,14/03/2024,Oscar,Si,No
+Empaque Eco,Cocina,1,90,90,100,12,Jueves,14/03/2024,Oscar,Si,Si
+Control Samsung,Tv,1,90,90,100,17,Jueves,14/03/2024,Yocelin,Si,Si
+Rasuradora,Varios,1,190,0,0,18,Jueves,14/03/2024,China,No,No
+Transmisor bt,Audio,1,160,160,200,20,Jueves,14/03/2024,China,Si,Si
+Mini legos,Juguetes,1,50,50,50,12,Viernes,15/03/2024,Oscar,Si,Si
+Control Universal,Tv,1,120,0,0,12,Viernes,15/03/2024,Oscar,Si,No
+Bocina Velikka 8',Audio,1,840,840,1000,17,Viernes,15/03/2024,Yocelin,Si,Si
+Audifonos 1Hora,Audio,1,320,320,320,20,Viernes,15/03/2024,China,No,Si
+Cortadora wall,Varios,1,490,490,500,12,Sabado,16/03/2024,Oscar,No,Si
+Extension Luz,Energia,1,32,32,50,12,Sabado,16/03/2024,Oscar,No,Si
+Bocina Crack,Audio,1,3900,3800,4000,18,Sabado,16/03/2024,China,Si,Si
+Transmisor bt,Audio,1,160,160,200,20,Sabado,16/03/2024,China,Si,Si
+Usb Grabada,Audio,1,150,0,0,20,Sabado,16/03/2024,China,No,No
+Usb Grabada,Audio,1,150,150,150,12,Domingo,17/03/2024,Oscar,Si,Si
+Bocina Velikka,Audio,1,190,190,200,12,Domingo,17/03/2024,Oscar,Si,Si
+Ventilador Fol,Varios,1,400,0,0,12,Domingo,17/03/2024,Oscar,No,No
+Ventilador rec,Varios,1,90,90,100,12,Domingo,17/03/2024,Oscar,No,Si
+Bocina Crack,Audio,1,3900,0,0,12,Domingo,17/03/2024,Oscar,No,No
+Extension Luz,Energia,1,32,32,50,12,Domingo,17/03/2024,Oscar,No,Si
+Control Universal,Tv,1,120,0,0,12,Domingo,17/03/2024,Oscar,Si,No
+Cortadora wall,Varios,1,490,490,500,13,Domingo,17/03/2024,Oscar,No,Si
+Control Lg,Tv,1,90,90,100,11,Lunes,18/03/2024,Oscar,Si,Si
+Empaque Presto,Cocina,1,50,50,50,12,Lunes,18/03/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,0,0,16,Lunes,18/03/2024,Yocelin,Si,No
+Bocina Velikka,Audio,1,190,190,200,18,Lunes,18/03/2024,Laura,Si,Si
+Bace de tv,Tv,1,240,240,500,20,Lunes,18/03/2024,Laura,Si,Si
+Navaja Oster,Cocina,2,40,80,100,12,Martes,19/03/2024,Oscar,Si,Si
+Pila AAA,Energia,2,10,20,20,17,Martes,19/03/2024,Laura,Si,Si
+Teatro en casa,Audio,1,640,0,0,19,Martes,19/03/2024,Laura,No,No
+Baso de licuadora,Cocina,1,40,40,50,13,Miercoles,20/03/2024,Oscar,Si,Si
+Reloj Casio,Varios,1,190,0,0,13,Miercoles,20/03/2024,Oscar,No,No
+Control Lg,Tv,1,90,90,100,17,Miercoles,20/03/2024,Yocelin,Si,Si
+Control Polaroid,Tv,1,90,90,100,20,Miercoles,20/03/2024,Laura,Si,Si
+Empaque Presto,Cocina,1,50,50,50,11,Jueves,21/03/2024,Oscar,Si,Si
+Control Polaroid,Tv,1,90,90,100,12,Jueves,21/03/2024,Oscar,Si,Si
+Navaja Oster,Cocina,1,40,40,50,13,Jueves,21/03/2024,Oscar,Si,Si
+Audifonos 1Hora,Audio,1,320,0,0,17,Jueves,21/03/2024,Yocelin,No,No
+Bocina Velikka 3',Audio,1,240,240,300,18,Jueves,21/03/2024,Laura,Si,Si
+Control Polaroid,Tv,1,90,90,100,19,Jueves,21/03/2024,Laura,Si,Si
+Valvula,Cocina,1,80,80,100,10,Viernes,22/03/2024,Oscar,Si,Si
+Control Polaroid,Tv,2,90,0,200,12,Viernes,22/03/2024,Oscar,No,Si
+Extension Luz,Energia,2,35,0,100,16,Viernes,22/03/2024,Yocelin,No,Si
+Bocina Velikka 6',Audio,1,420,0,500,17,Viernes,22/03/2024,Laura,No,Si
+Control Sharp,Tv,1,60,60,100,20,Viernes,22/03/2024,Laura,Si,Si
+Extension Luz,Energia,1,60,0,100,11,Sabado,23/03/2024,Oscar,No,Si
+Rasuradora,Varios,1,190,0,0,12,Sabado,23/03/2024,Oscar,No,No
+Bocina Velikka 3',Audio,1,240,0,300,13,Sábado,23/03/2024,Oscar,No,Si
+Audifonos 1Hora,Audio,1,320,0,400,16,Sábado,23/03/2024,Yocelin,No,Si
+Bocina Link bits,Audio,1,740,0,0,17,Sábado,23/03/2024,Yocelin,No,Si
+Control Universal,Tv,1,120,120,150,19,Sábado,23/03/2024,Laura,Si,Si
+Control Sharp,Tv,1,60,60,60,20,Sábado,23/03/2024,Laura,Si,Si
+Extension Luz,Energia,1,35,35,50,20,Sábado,23/03/2024,Laura,Si,Si
+Lampara de Mano ,Energia,1,90,0,100,10,Domingo,24/03/2024,Oscar,No,Si
+Mini legos,Juguetes,1,50,50,200,10,Domingo,24/03/2024,Oscar,Si,Si
+Cargador v8,Energia,1,95,0,100,12,Domingo,24/03/2024,Oscar,No,Si
+Audifonos 1Hora,Audio,1,320,0,400,12,Domingo,24/03/2024,Oscar,No,Si
+Bocina Velikka,Audio,1,190,0,200,12,Domingo,24/03/2024,Oscar,No,Si
+Control Sharp,Tv,1,60,60,60,12,Domingo,24/03/2024,Oscar,Si,Si
+Bocina Fol 8',Audio,1,1300,0,0,12,Domingo,24/03/2024,Oscar,No,No
+Bocina Velikka 8',Audio,1,840,0,0,13,Domingo,24/03/2024,Oscar,No,No
+Extension Luz,Audio,1,32,32,100,13,Domingo,24/03/2024,Oscar,No,Si
